@@ -1,0 +1,14 @@
+* 30c3544 Removing a task by name
+*   9b40d8b Merge branch '4-sort-tasks-by-priority'
+|\  
+| * 02962fa Sort tasks
+* |   c49e8d8 Merge branch '6-find-the-highest-priority-unfinished-task'
+|\ \  
+| * | 0fe66f4 Implement highest-priority unfinished task feature
+| * | 941dfb7 Dodaden metod Urgent tasks
+| |/  
+* | e70e7e5 Dodaden metod Sort tasks by priority
+* | c63364c Dodaden metod Find all completed tasks
+|/  
+* d7f527d Add starter code
+* 891e9df Initial commit
