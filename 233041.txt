@@ -1,0 +1,14 @@
+8.git add SI2025Lab1Main.java
+git commit -m "Add starter code"
+
+
+git add .
+$ git commit -m "Dodaden metod Find all completed tasks"
+git push origin 1-remove-a-task-by-name
+
+
+git fetch origin
+git checkout 4-sort-tasks-by-priority
+
+git fetch origin
+git checkout 6-find-the-highest-priority-unfinished-task
