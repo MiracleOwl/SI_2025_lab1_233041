@@ -83,7 +83,6 @@ class TaskManager {
         // TODO: Implement sorting logic
     }
 
-    // 4. Sort tasks by priority
     public void sortTasksByPriority() {
         tasks.sort(Comparator.comparingInt(Task::getPriority).reversed());
     }
